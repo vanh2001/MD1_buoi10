@@ -1,4 +1,4 @@
-let table;
+let table = '';
 table = "<table border='1' cellspacing='0' cellpadding='10'>"
 for (let i = 0; i < 10; i++) {
     table += "<tr>";
